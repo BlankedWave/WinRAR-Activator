@@ -56,8 +56,8 @@ cls
 mode 76, 30
 title %_onetitle% by NaeemBolchhi
 echo %_onetitle%
-echo Created by NaeemBolchhi
-echo https://naeembolchhi.github.io/WinRAR-Activator/
+echo Created by BlankedWave
+echo https://blankedwave.github.io/WinRAR-Activator/
 echo:
 
 call :RARBIT
