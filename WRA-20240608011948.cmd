@@ -54,7 +54,7 @@ set "_onetitle=WinRAR Activator v0.02"
 
 cls
 mode 76, 30
-title %_onetitle% by NaeemBolchhi
+title %_onetitle% by BlankedWave
 echo %_onetitle%
 echo Created by BlankedWave
 echo https://blankedwave.github.io/WinRAR-Activator/
